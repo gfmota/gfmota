@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as front end intern at [PushStart](https://pushstart.com.br/) and with a scholarship science initiation on [CulturaEduca](https://culturaeduca.cc/).
 - 🌱 I’m currently learning React and Typescript as a web dev and Unity as game dev.
-- ⚡ Fun fact: Trying my luck at game development, [my Itch.io](https://gmota.itch.io/).
+- ⚡ Fun fact: Trying my luck at game development.
 
 ##
 
@@ -24,6 +24,7 @@
  <a href="https://discord.com/users/406535795705643020" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/GabrielFMota" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  <a href="https://gmota.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
 
 ##
 
