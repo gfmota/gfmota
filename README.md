@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as front end intern at [PushStart](https://pushstart.com.br/) and with a scholarship science initiation on [CulturaEduca](https://culturaeduca.cc/).
 - 🌱 I’m currently learning React and Typescript as a web dev and Unity as game dev.
-- ⚡ Fun fact: Trying my luck at game development.
+- ⚡ Fun fact: I love to try my luck at GameJams
 
 ##
 
