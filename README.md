@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm a brazilian computer science student at IME - University of São Paulo.
 
-- 🔭 I’m currently working as front end intern at [PushStart](https://pushstart.com.br/) and with a scholarship science initiation on [CulturaEduca](https://culturaeduca.cc/).
+- 🔭 I’m currently working as front end intern at [QuintoAndar](https://www.quintoandar.com.br/) and with a scholarship science initiation on [CulturaEduca](https://culturaeduca.cc/).
 - 🌱 I’m currently learning React and Typescript as a web dev and Unity as game dev.
 - ⚡ Fun fact: I love to try my luck at GameJams
 
