@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm a brazilian computer science student at IME - University of São Paulo.
 
-- 🔭 I’m currently working as front end intern at [QuintoAndar](https://www.quintoandar.com.br/) and with a scholarship science initiation on [CulturaEduca](https://culturaeduca.cc/).
-- 🌱 I’m currently learning React and Typescript as a web dev and Unity as game dev.
-- ⚡ Fun fact: I love to try my luck at GameJams
+- 🔭 I’m currently working as software engineer at [QuintoAndar](https://www.quintoandar.com.br/).
+- 🧪 I'm president of [CLI, CodeLab Initiative](https://codelab.ime.usp.br/#/), a student group focused on innovation. 
+- 🌱 I’m currently learning Next and Typescript as a web dev, focused in performance and rendering patterns.
+- ⚡ Fun fact: I love Pokemon
 
 ##
 
