@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a brazilian computer science student at IME - University of São Paulo and software engineer at [QuintoAndar](https://www.quintoandar.com.br/).
+### Hi there 👋, I'm a brazilian software engineer at [QuintoAndar](https://www.quintoandar.com.br/), graduated in computer science student at IME - University of São Paulo. 
 
 - 2y experience as frontend developer with Next and Typescript
 - 1y experience as backend developer with Java and SpringBoot (current work)
